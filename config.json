@@ -1,0 +1,17 @@
+
+{
+  "logfiles": ["C:\\inetpub\\logs\\LogFiles\\W3SVC1\\u_ex%y%m%d.log"],
+  "maxMinAgo": 60,
+  "alertResponsesGT":10,
+  "email": {
+    "send":false,
+    "to":null,
+    "from":null,
+    "username": null,
+    "password": null,
+    "smptAddr": null,
+    "smtpPort": null,
+    "tlsRequired":null
+  }
+}
+
