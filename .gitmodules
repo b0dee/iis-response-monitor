@@ -1,3 +1,4 @@
 [submodule "pyutils"]
 	path = pyutils
 	url = https://github.com/b0dee/pyutils.git
+  ignore = untracked
